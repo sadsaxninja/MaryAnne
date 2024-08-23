@@ -1,0 +1,85 @@
+<mxfile host="Electron" modified="2023-09-08T05:47:55.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="IL_L-iIeQS3oZyJhp0Wn" version="21.6.8" type="device">
+  <diagram name="Page-1" id="HVBawIDzZeoYlX_uRUNP">
+    <mxGraphModel dx="2390" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-98" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="135" width="330" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-99" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-100" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="500" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-101" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-102" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-103" target="3ZWD5vYBRvn1-FGMmFXZ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-103" value="Register/Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-105" target="3ZWD5vYBRvn1-FGMmFXZ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-105" value="Book Appointment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-106" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-107" target="3ZWD5vYBRvn1-FGMmFXZ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-107" value="View/Manage Profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-108" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-109" target="3ZWD5vYBRvn1-FGMmFXZ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-109" value="Manage Employees" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-110" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-111" target="3ZWD5vYBRvn1-FGMmFXZ-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-111" value="Update Availability" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-112" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-113" target="3ZWD5vYBRvn1-FGMmFXZ-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-113" value="Check Schedule" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-114" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-115" target="3ZWD5vYBRvn1-FGMmFXZ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-115" value="Redeem Rewards" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-116" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-117" target="3ZWD5vYBRvn1-FGMmFXZ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-117" value="Manage Services" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-119" target="3ZWD5vYBRvn1-FGMmFXZ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-119" value="Update System Content" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3ZWD5vYBRvn1-FGMmFXZ-121" target="3ZWD5vYBRvn1-FGMmFXZ-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-121" value="Update Security Settings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZWD5vYBRvn1-FGMmFXZ-122" value="MarryAnne Hair Salon System" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
